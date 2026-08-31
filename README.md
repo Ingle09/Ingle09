@@ -66,65 +66,50 @@ my software engineering and backend development skills.
 
 ### 🎯 AI Adaptive Interview Platform
 
-An AI-driven interview platform designed to conduct adaptive interviews and
-support automated candidate evaluation.
+An AI-driven interview platform designed to conduct adaptive interviews and support automated candidate evaluation. The project focuses on intelligent interview workflows and real-time AI-powered assessment.
 
-**Focus:** AI-powered interviews • Adaptive evaluation • Real-time systems
-
-**Technologies:** Python • JavaScript • AI/ML • APIs
+**Tech Stack:** Python • JavaScript • AI/ML • APIs
 
 ---
 
-### 💰 AI Financial Planner / Personal Finance Tracker
+### 🤖 Multiagent-Ai-Research-Pipeline
 
-An AI-powered personal finance application combining machine learning,
-LLM-based insights, OCR, and financial data processing.
+A multi-agent AI research system that automates the research process using specialized AI agents, RAG, and LLM-based workflows. It combines research, generation, review, and citation workflows into an automated pipeline.
 
-**Highlights:**
-- Financial data analysis
-- Machine learning-based prediction
-- LLM-powered financial insights
-- OCR-based data extraction
-- Backend application development
+**Tech Stack:** Python • FastAPI • RAG • ChromaDB • LiteLLM • React • TypeScript • Docker • PostgreSQL
 
-**Technologies:** Python • Django • Machine Learning • LLM • OCR
+---
+
+### 💰 AI-Financial-Planner-Using-LLM-And-Random-Forest-Regressor
+
+An AI-powered personal finance application combining machine learning, LLM-based insights, OCR, and financial data processing. The system is designed to support financial analysis and personalized financial insights.
+
+**Tech Stack:** Python • Django • Machine Learning • Random Forest • LLM • OCR • Pandas • NumPy
 
 ---
 
 ### 🚗 Deep Learning Self-Driving Car Simulator
 
-A deep learning and reinforcement learning project focused on autonomous
-driving in a simulated environment.
+A deep learning and reinforcement learning project focused on autonomous driving in a simulated environment. The project explores CNN-based perception and Deep Deterministic Policy Gradient (DDPG) for autonomous driving.
 
-**Explored:**
-- Convolutional Neural Networks (CNN)
-- Deep Reinforcement Learning
-- Deep Deterministic Policy Gradient (DDPG)
-- Autonomous driving simulation
-
-**Technologies:** Python • TensorFlow/Keras • CNN • DRL
+**Tech Stack:** Python • TensorFlow/Keras • CNN • Deep Reinforcement Learning • DDPG
 
 ---
 
 ### 🎬 Movie Recommendation System – Collaborative Filtering
 
-A recommendation system that suggests movies based on user preferences and
-similarity patterns using collaborative filtering techniques.
+A movie recommendation system that suggests movies based on user preferences and similarity patterns using collaborative filtering techniques.
 
-**Focus:** Recommendation Systems • Collaborative Filtering • Machine Learning
-
-**Technologies:** Python • Pandas • NumPy • scikit-learn
+**Tech Stack:** Python • Pandas • NumPy • scikit-learn • Collaborative Filtering
 
 ---
 
 ### 🏠 House Price Prediction
 
-A machine learning project focused on predicting house prices using relevant
-property features.
+A machine learning project focused on predicting house prices using relevant property features. The project covers data preprocessing, regression, model training, and evaluation.
 
-**Focus:** Data preprocessing • Regression • Model training • Model evaluation
+**Tech Stack:** Python • Pandas • NumPy • scikit-learn • Regression
 
-**Technologies:** Python • Pandas • NumPy • scikit-learn
 
 ---
 
