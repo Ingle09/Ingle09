@@ -64,11 +64,19 @@ my software engineering and backend development skills.
 
 ## 🚀 Projects
 
+### 🧑‍💼 VSync HRMS — AI Copilot Integration
+
+An enterprise HRMS and multi-tenant SaaS platform for employee management, attendance, payroll, field tracking, and subscriptions. Worked on integrating an AI Copilot across Admin and Employee portals for natural-language HR queries and workflow actions.
+
+**Tech Stack:** React • Vite • Node.js • Express.js • MongoDB • Google Gemini • RAG • Embeddings • JWT • Socket.io
+
+---
+
 ### 🎯 AI Adaptive Interview Platform
 
-An AI-driven interview platform designed to conduct adaptive interviews and support automated candidate evaluation. The project focuses on intelligent interview workflows and real-time AI-powered assessment.
+An AI-driven interview platform designed to conduct adaptive interviews and support automated candidate evaluation through real-time interview and proctoring workflows. Worked on implementing AI-powered proctoring and real-time monitoring features.
 
-**Tech Stack:** Python • JavaScript • AI/ML • APIs
+**Tech Stack:** React • JavaScript • Python • AI/ML • MediaPipe • Web Audio API • WebSocket • APIs
 
 ---
 
@@ -80,7 +88,7 @@ A multi-agent AI research system that automates the research process using speci
 
 ---
 
-### 💰 AI-Financial-Planner-Using-LLM-And-Random-Forest-Regressor
+### 💰 AI Financial Planner Using LLM And Random ForestRegressor
 
 An AI-powered personal finance application combining machine learning, LLM-based insights, OCR, and financial data processing. The system is designed to support financial analysis and personalized financial insights.
 
