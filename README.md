@@ -64,7 +64,7 @@ my software engineering and backend development skills.
 
 ## 🚀 Projects
 
-### 🧑‍💼 VSync HRMS — AI Copilot Integration
+### 🧑‍💼 Vwync  — AI Copilot Integration
 
 An enterprise HRMS and multi-tenant SaaS platform for employee management, attendance, payroll, field tracking, and subscriptions. Worked on integrating an AI Copilot across Admin and Employee portals for natural-language HR queries and workflow actions.
 
